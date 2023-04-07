@@ -17,7 +17,7 @@ function Login(props) {
 
   const handleAuthentication = () => {
     if (
-      (user.name === "kabir" && user.password === "kabir@123") ||
+      (user.name === "Himanshu" && user.password === "sahu@123") ||
       (user.name === "admin" && user.password === "admin@123")
     ) {
       setlogin(true);
